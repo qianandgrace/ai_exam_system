@@ -3,9 +3,9 @@ import json
 import os
 
 # 指定包含CSV文件的目录
-csv_directory = 'mydata'
+csv_directory = 'data/transfer_data'
 # 输出的JSON文件路径
-json_filepath = 'train.json'
+json_filepath = 'exam_train.json'
 
 # 读取CSV文件并转换为JSON格式
 def csv_to_json(csv_directory, json_filepath):

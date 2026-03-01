@@ -2,9 +2,9 @@ import json
 import random
 
 # 指定输入的JSON文件路径
-input_json_filepath = 'train.json'
+input_json_filepath = 'exam_train.json'
 # 指定输出的JSON文件路径
-output_json_filepath = 'test.json'
+output_json_filepath = 'exam_test.json'
 # 指定选择数据的比例因子（例如，0.1表示选择10%的数据）
 selection_ratio = 0.3
 
