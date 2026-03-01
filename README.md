@@ -1,2 +1,17 @@
-# ai_exam_system
-exam system based on big model
+# 数据预处理
+```
+1、人工处理
+原始数据 -> 清理，排除错误 -> 可以批量处理的数据
+在此项目中由data/origin_data 转化为 data/transfer_data中的格式
+
+2、脚本批量转化csv数据为json数据，便于下一步处理
+```
+
+# 方案
+
+
+# 模型
+
+# 训练与评测
+
+# 部署
